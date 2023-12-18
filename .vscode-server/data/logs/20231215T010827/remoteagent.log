@@ -1,0 +1,24 @@
+2023-12-15 01:08:27.934 [info] 
+
+
+
+
+2023-12-15 01:08:28.064 [info] Extension host agent started.
+2023-12-15 01:08:28.489 [info] [127.0.0.1][8cf97455][ManagementConnection] New connection established.
+2023-12-15 01:08:30.428 [info] [127.0.0.1][16d19916][ExtensionHostConnection] New connection established.
+2023-12-15 01:08:30.482 [info] [127.0.0.1][16d19916][ExtensionHostConnection] <2098> Launched Extension Host Process.
+2023-12-15 01:09:21.100 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-15 01:09:21.268 [info] Installing extension: ritwickdey.liveserver
+2023-12-15 01:09:22.413 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-12-15 01:10:00.910 [info] Extracted extension to file:///root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-12-15 01:10:00.959 [info] Renamed to /root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-12-15 01:10:00.975 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-15 01:10:01.073 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-15 01:12:56.422 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:14:21.327 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:15:24.210 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:15:46.834 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:16:08.954 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:16:31.661 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:17:02.201 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:17:25.736 [info] [127.0.0.1][16d19916][ExtensionHostConnection] The client has reconnected.

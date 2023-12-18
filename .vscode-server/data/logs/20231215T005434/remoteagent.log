@@ -1,0 +1,23 @@
+2023-12-15 00:54:34.855 [info] 
+
+
+
+
+2023-12-15 00:54:34.855 [info] Extension host agent started.
+2023-12-15 00:54:34.855 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-12-15 00:54:34.873 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-12-15 00:54:34.998 [info] [127.0.0.1][a1576eec][ManagementConnection] New connection established.
+2023-12-15 00:54:35.425 [info] [127.0.0.1][863eee91][ExtensionHostConnection] New connection established.
+2023-12-15 00:54:35.432 [info] [127.0.0.1][863eee91][ExtensionHostConnection] <1073> Launched Extension Host Process.
+2023-12-15 01:06:57.471 [info] Getting Manifest... oderwat.indent-rainbow
+2023-12-15 01:06:57.845 [info] Installing extension: oderwat.indent-rainbow
+2023-12-15 01:07:04.574 [warning] Extension signature verification failed with error 'ENOENT': oderwat.indent-rainbow
+2023-12-15 01:07:42.580 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-15 01:07:42.958 [info] Installing extension: ritwickdey.liveserver
+2023-12-15 01:07:48.074 [info] Extracted extension to file:///root/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2023-12-15 01:07:48.264 [info] Renamed to /root/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1
+2023-12-15 01:07:48.350 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-12-15 01:07:48.560 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-12-15 01:07:49.793 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-12-15 01:08:04.411 [info] [127.0.0.1][a1576eec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-15 01:08:05.315 [info] [127.0.0.1][863eee91][ExtensionHostConnection] <1073> Extension Host Process exited with code: 0, signal: null.
