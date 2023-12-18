@@ -46,3 +46,49 @@ npm install -g python
 python3 latest
 sudo apt update
 sudo apt install python3.12
+python3 --version
+sudo apt update
+sudo apt-get install git-all
+git -v
+git --version
+clear
+ssh-keygen -t ed25519 -c "yulidarraga.03@gmail.com"
+ssh-keygen -t ed25519 -C "yulidarraga.03@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add 
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+clear
+ls
+cd proyecto personal 
+cd proyectopersonal
+ls
+git init
+git status
+git add
+git add web.html
+git add .
+git status
+git commit -m "Mi primer commit"
+git config --global user.name "yulidarraga"
+git config --global user.email 
+git config --global user.email "yulidarraga.03@gmail.com"
+git commit -m "Mi primer commit"
+git status
+git add .
+git init
+git config --global user.email "yulidarraga.03@gmail.com"
+git commit -m "Mi primer commit"
+git remote add origin https://github.com/Yulidarraga/Myweb.git
+git remote -v
+
+git push origin master
+git remote -v
+git push origin master
+clear
+git add web.html
+git status
+git commit -m "Mi primer commit""
+git commit -m "Mi primer commit"
+reset
+
